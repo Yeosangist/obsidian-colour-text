@@ -95,7 +95,7 @@ Her **ruby** **red** lips matched her **scarlet** dress.
 
 ## License
 
-This plugin is released under the MIT License.
+This plugin is released under the GPLv3 License.
 
 ## Contributing
 
