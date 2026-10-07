@@ -2,6 +2,10 @@
 
 An Obsidian plugin that automatically highlights color words in your notes with their actual colors. Makes your notes more vibrant and visually intuitive!
 
+## Based on the Web Userscript
+
+This plugin is an Obsidian port of the [Colour Text userscript](https://github.com/Yeosangist/colour-text), which highlights colour words across the web using their respective colours. The Obsidian version brings the same functionality to your notes and vault.
+
 ## Features
 
 - **100+ Color Words**: Supports a comprehensive palette of color names including:
